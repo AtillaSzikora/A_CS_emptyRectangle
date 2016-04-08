@@ -1,10 +1,10 @@
 ﻿using System;
 
+//Draws an empty rectangle from given character and entered num of rows and cols.
 namespace A_CS_emptyRectangle {
 
     internal class EmptyRectangle {
 
-        //Draws an empty rectangle from given character and entered num of rows and cols.
         private static void Main(string[] args) {
 
             Console.Write("Enter a character to draw a rectangle: ");
